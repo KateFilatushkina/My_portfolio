@@ -94,3 +94,9 @@ p {
   margin: 30px auto;
   width: 80px;
 }
+@media (max-width: 600px) {
+  h1 {
+    font-size: 36px;
+    text-align: center;
+  }
+}
